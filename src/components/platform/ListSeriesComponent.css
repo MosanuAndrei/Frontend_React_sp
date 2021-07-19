@@ -1,0 +1,38 @@
+.contact-list {
+    text-align: center;
+    list-style: decimal;
+  }
+  
+  .contact-title {
+    text-decoration: underline;
+  }
+  
+  .series-names {
+    display: inline-block;
+  }
+  
+  .series-link {
+    text-align: center;
+  }
+  
+  .link {
+    background: rgb(255, 255, 255);
+    border: 1px solid black;
+    padding: 4px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .series-form {
+    text-align: center;
+  }
+  
+  .series-label {
+    padding: 5px;
+  }
+  
+  .series-button {
+    margin: 10px;
+  }
+  

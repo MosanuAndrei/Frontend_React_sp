@@ -1,0 +1,41 @@
+.series-form {
+    background: rgba(192, 47, 47, 0.952);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 1px;
+    border: 1px solid rgb(0, 0, 0);
+  }
+  
+  .series-form input {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .series-form label {
+    padding: 10px;
+    display: block;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .series-form button {
+    width: 100%;
+    background: rgb(231, 227, 227);
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  .link-back {
+    display: block;
+    background: rgb(245, 243, 243);
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
